@@ -1,3 +1,8 @@
+
+R-Script is based on the RamanAnalysisPipeline (RAP) on \
+Github: https://github.com/JoostVerduijn/RamanAnalysisPipeline \
+or [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10814381.svg)](https://doi.org/10.5281/zenodo.10814381)
+
 # LipidBodiesAnalysis
 
 Scripts used for visualisation and analysis of lipid bodies within microalgal cells.
